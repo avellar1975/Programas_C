@@ -1,5 +1,5 @@
 /* conceito de struts com apelidos
-
+29/09/2018
 */
 
 #include <stdio.h>
