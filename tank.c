@@ -1,3 +1,4 @@
+/* conceito de struts com apelidos */
 
 #include <stdio.h>
 
