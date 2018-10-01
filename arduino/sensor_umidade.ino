@@ -1,4 +1,4 @@
-
+/*Evandro Avellar*/
 
 #define sensorUmidade A0 // Sensor de umidade de solo do módulo
 const int ledPin = 13;
